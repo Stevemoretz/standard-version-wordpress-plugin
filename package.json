@@ -1,0 +1,7 @@
+{
+  "name": "standard-version-wordpress-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Stevemoretz/standard-version-wordpress-plugin",
+  "author": "Steve Moretz"
+}
